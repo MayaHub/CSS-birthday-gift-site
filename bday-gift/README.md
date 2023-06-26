@@ -1,4 +1,6 @@
-# co68b459c84a23514dc341e72
+Hello!
+
+This is a birthday GIFt project I completed as part of the Scrimba Front End Developer Career Path.  I used HTML & CSS, gif & jpg images, and modified the project template to create a personalized birthday gif card.
 
 Quick start:
 
